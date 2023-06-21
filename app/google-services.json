@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "546593723610",
+    "project_id": "mediapostappfirebase",
+    "storage_bucket": "mediapostappfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546593723610:android:be075ebef79fe0020081e3",
+        "android_client_info": {
+          "package_name": "com.akashsoam.mediapostappfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546593723610-vblcc5v83lp7jusruktmlfte3tqgj4s4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACV3R7w9lx57KPHOFTPKT476ShFQhZX-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546593723610-vblcc5v83lp7jusruktmlfte3tqgj4s4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Media Posting App Firebase</string>
+    <string name="please_enter_your_email">please enter your email</string>
+    <string name="please_enter_your_username">please enter your username</string>
+    <string name="please_enter_your_password">please enter your password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign in</string>
+    <string name="logout">Logout</string>
+    <string name="view_posts">View posts</string>
+    <string name="view_the_users_who_sent_you_posts">View the users who sent you posts</string>
+</resources>
